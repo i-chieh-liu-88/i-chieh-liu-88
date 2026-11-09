@@ -1,17 +1,17 @@
 {
   "username": "i-chieh-liu-88",
-  "generated_at": "2026-11-07T10:17:10Z",
+  "generated_at": "2026-11-09T11:38:30Z",
   "range": {
-    "start": "2025-11-02",
-    "end": "2026-11-07"
+    "start": "2025-11-09",
+    "end": "2026-11-09"
   },
-  "total_contributions": 277,
-  "active_days": 75,
+  "total_contributions": 281,
+  "active_days": 76,
   "avg_per_active_day": 3.7,
   "current_streak": {
-    "length": 0,
-    "start": null,
-    "end": null
+    "length": 1,
+    "start": "2026-11-08",
+    "end": "2026-11-08"
   },
   "longest_streak": {
     "length": 7,
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-11",
-      "total": 4
+      "total": 8
     }
   ],
   "days": [
-    {
-      "date": "2025-11-02",
-      "count": 0
-    },
-    {
-      "date": "2025-11-03",
-      "count": 0
-    },
-    {
-      "date": "2025-11-04",
-      "count": 0
-    },
-    {
-      "date": "2025-11-05",
-      "count": 0
-    },
-    {
-      "date": "2025-11-06",
-      "count": 0
-    },
-    {
-      "date": "2025-11-07",
-      "count": 0
-    },
-    {
-      "date": "2025-11-08",
-      "count": 0
-    },
     {
       "date": "2025-11-09",
       "count": 0
@@ -1551,7 +1523,7 @@
     },
     {
       "date": "2026-11-05",
-      "count": 2
+      "count": 4
     },
     {
       "date": "2026-11-06",
@@ -1559,6 +1531,14 @@
     },
     {
       "date": "2026-11-07",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
       "count": 0
     }
   ]
