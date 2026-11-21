@@ -1,17 +1,17 @@
 {
   "username": "i-chieh-liu-88",
-  "generated_at": "2026-11-20T11:45:18Z",
+  "generated_at": "2026-11-21T11:10:06Z",
   "range": {
     "start": "2025-11-16",
-    "end": "2026-11-20"
+    "end": "2026-11-21"
   },
   "total_contributions": 289,
   "active_days": 81,
   "avg_per_active_day": 3.6,
   "current_streak": {
-    "length": 3,
-    "start": "2026-11-17",
-    "end": "2026-11-19"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 7,
@@ -1555,6 +1555,10 @@
     },
     {
       "date": "2026-11-20",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
       "count": 0
     }
   ]
